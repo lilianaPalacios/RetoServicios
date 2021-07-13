@@ -1,0 +1,12 @@
+io/swagger/petstore/certification/models/PlaceAnOrderModel.java
+ io.swagger.petstore.certification.models.PlaceAnOrderModel
+io/swagger/petstore/certification/steps/CreateUserStep.java
+ io.swagger.petstore.certification.steps.CreateUserStep
+io/swagger/petstore/certification/steps/PlaceAnOrderStep.java
+ io.swagger.petstore.certification.steps.PlaceAnOrderStep
+io/swagger/petstore/certification/utils/enums/URLReqRes.java
+ io.swagger.petstore.certification.utils.enums.URLReqRes
+io/swagger/petstore/certification/utils/InternetConection.java
+ io.swagger.petstore.certification.utils.InternetConection
+io/swagger/petstore/certification/models/UserModel.java
+ io.swagger.petstore.certification.models.UserModel

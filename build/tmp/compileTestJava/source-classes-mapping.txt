@@ -1,0 +1,8 @@
+in/swagger/petstore/certification/stepdefinition/CreateUserStepDefinition.java
+ in.swagger.petstore.certification.stepdefinition.CreateUserStepDefinition
+in/swagger/petstore/certification/runners/UsersRunner.java
+ in.swagger.petstore.certification.runners.UsersRunner
+in/swagger/petstore/certification/runners/PlaceAnOrderRunner.java
+ in.swagger.petstore.certification.runners.PlaceAnOrderRunner
+in/swagger/petstore/certification/stepdefinition/PlaceAnOrderStepDefintion.java
+ in.swagger.petstore.certification.stepdefinition.PlaceAnOrderStepDefintion
